@@ -8,3 +8,6 @@
 heyitsgibsss/heyitsgibsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Im new at coding and development languange program, beg my learning supervisor 
