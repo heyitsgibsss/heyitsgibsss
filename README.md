@@ -15,7 +15,6 @@
 
 ---
 
-### 👾 About Me in JSON
 
 ```json
 {
